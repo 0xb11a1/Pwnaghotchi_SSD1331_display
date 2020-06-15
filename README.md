@@ -18,7 +18,7 @@ This blog show the process in great way
 
 
 
-<img title="" src="/home/bilal/Documents/projects_random/pwnagotchi/img/1.jpeg" alt="1.jpeg" width="348">
+<img title="" src="./img/1.jpeg" alt="1.jpeg" width="348">
 
 
 
@@ -88,7 +88,7 @@ the project is done now but you can soldering the connection between the display
 
 
 
-<img src="/home/bilal/Documents/projects_random/pwnagotchi/img/3.jpeg" title="" alt="3.jpeg" width="203">
+<img src="./3.jpeg" title="" alt="3.jpeg" width="203">
 
 
 
