@@ -78,7 +78,7 @@ sudo crontab -e
 
 Now if you restart the pwnaghotchi in AUTO mood it should work 
 
-<img src="/home/bilal/Documents/projects_random/pwnagotchi/img/2.jpeg" title="" alt="2.jpeg" width="278">
+<img src="./img/2.jpeg" title="" alt="2.jpeg" width="278">
 
 
 
@@ -88,7 +88,7 @@ the project is done now but you can soldering the connection between the display
 
 
 
-<img src="./3.jpeg" title="" alt="3.jpeg" width="203">
+<img src="./img/3.jpeg" title="" alt="3.jpeg" width="203">
 
 
 
